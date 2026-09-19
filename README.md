@@ -1,6 +1,6 @@
 # Information
 
-Проект "DocFlow" состоит из шести основных микро-сервисов:
+Проект "DocFlow" состоит из семи основных микро-сервисов:
 
 - Document Service
 - Identity Service
@@ -9,6 +9,9 @@
 - Signing Service
 - Workflow Service
 - Templates Service
+
+
+***Подробную информацию о каждом сервисе можно найти в отдельной директории с названием сервисе***
 
 ## 1. Document Service - Реестр документов
 
