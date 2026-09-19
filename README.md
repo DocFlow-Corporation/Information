@@ -1,6 +1,6 @@
 # Information
 
-Проект "DocFlow" состоит из семи основных микро-сервисов:
+Проект "DocFlow" состоит из восьми основных микро-сервисов:
 
 - Document Service
 - Identity Service
@@ -8,6 +8,7 @@
 - Patrners Service
 - Signing Service
 - Workflow Service
+- Subscription Service
 - Templates Service
 
 
@@ -60,7 +61,11 @@
 2) Авторизация пользователя
 3) Определение прав пользователя
 
-## 7. Partners Service - Продажа подписок
+## 7. Partners Service - 
+
+# РИНАТ, РАСПИШИ ПЖ
+
+## 8. Subscription Service - Продажа подписок
 
 Данный сервис ответственен за предоставление подписок, покрывает следующий функционал:
 
